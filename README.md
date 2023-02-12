@@ -1,5 +1,4 @@
-# Geoapify and OpenWeatherMap APIs 
-# in Gathering Place and Weather Data
+# Geoapify and OpenWeatherMap APIs \n in Gathering Place and Weather Data
 
 ### Utilization of API calls to gather geospacial data, transform, load as plots and map renders using GeoViews
 
