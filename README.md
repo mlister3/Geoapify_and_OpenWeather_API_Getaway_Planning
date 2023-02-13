@@ -97,7 +97,7 @@ See [WeatherPy.ipynb ](./WeatherPy.ipynb) for complete analysis.
 > Once the hotel names have been recieved, they are appended onto the existing hotel_df Dataframe. See [VacationPy.ipynb ](./VacationPy.ipynb) for to view the transformation.
 
 # Load
-
+> For each hotel, a plot point is made on the map. A function using HoverTool allows information for each plot point to be shown.
 ![Hotel_Map](output_data/plot_hotel_map.png)
 
 - - -
