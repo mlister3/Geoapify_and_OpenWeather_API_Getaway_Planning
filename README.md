@@ -47,7 +47,7 @@ To fulfill the second requirement, compute the linear regression for each relati
 
 # Extract
 
-![Weather](Code Snips/Weather Extract.png)
+![Weather](Code_Snips/Weather_Extract.png)
 # Transform
 # Load
 
