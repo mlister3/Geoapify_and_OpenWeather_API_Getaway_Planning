@@ -51,7 +51,11 @@ To fulfill the second requirement, compute the linear regression for each relati
 ![Weather](Code_Snips/Weather_Extract.png)
 
 # Transform
+> DataFrame is indexed and different columns of data are compared based off the requirements of the exercise. Plots are created for initial visual inspection. Ex:
+![Fig1](output_data/Fig1.png)
+
 # Load
+> 
 
 # Analysis
 
