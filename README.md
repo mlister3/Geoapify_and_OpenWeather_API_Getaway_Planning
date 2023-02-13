@@ -46,6 +46,8 @@ To fulfill the second requirement, compute the linear regression for each relati
 > After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
 
 # Extract
+
+![Weather](Code Snips/Weather Extract.png)
 # Transform
 # Load
 
