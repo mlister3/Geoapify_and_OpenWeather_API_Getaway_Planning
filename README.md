@@ -55,9 +55,13 @@ To fulfill the second requirement, compute the linear regression for each relati
 ![Fig1](output_data/Fig1.png)
 
 # Load
-> 
+> A function is created that we can then plug two variables into and compare them in a plot graph. These graphs will have a regression or line of best fit and show the linear equation.
+![Load](Code_Snips/Weather_Load.png)
 
 # Analysis
+
+![N](Code_Snips/Weather_N.png)
+![S](Code_Snips/Weather_S.png)
 
 ## VacationPy Instructions
 > In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
