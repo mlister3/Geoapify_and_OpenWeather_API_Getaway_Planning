@@ -46,6 +46,7 @@ To fulfill the second requirement, compute the linear regression for each relati
 > After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
 
 # Extract
+> In each city of the cities list, an API call URL is generated using the city name, base url, API key in background, and set units. This makes a url similar to `http://api.openweathermap.org/data/2.5/weather?appid=KEY###################&q=City&units=metric` and as each call is made, data is added to a list before being transformed into a DataFrame.
 
 ![Weather](Code_Snips/Weather_Extract.png)
 
