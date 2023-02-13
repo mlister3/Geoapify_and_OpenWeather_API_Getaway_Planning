@@ -98,7 +98,7 @@ See [WeatherPy.ipynb ](./WeatherPy.ipynb) for complete analysis.
 
 # Load
 
-![Hotel_Map](plot_hotel_map.png)
+![Hotel_Map](data_output/plot_hotel_map.png)
 
 - - -
 
