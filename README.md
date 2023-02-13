@@ -48,6 +48,7 @@ To fulfill the second requirement, compute the linear regression for each relati
 # Extract
 
 ![Weather](Code_Snips/Weather_Extract.png)
+
 # Transform
 # Load
 
@@ -75,5 +76,8 @@ To fulfill the second requirement, compute the linear regression for each relati
 5. Add the hotel name and the country as additional information in the hover message for each city on the map.
 
 # Extract
+
+![Hotel](Code_Snips/Hotel_Extract.png)
+
 # Transform
 # Load
