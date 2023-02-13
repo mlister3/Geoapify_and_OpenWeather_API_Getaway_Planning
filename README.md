@@ -61,6 +61,7 @@ To fulfill the second requirement, compute the linear regression for each relati
 # Analysis
 > Analysis is done for each relationship. Example:
 `Discussion about the linear relationship: There is a much stronger corrilation between latitude and temperature in the Northern Hemisphere than the Southern. There are also more data points in the Northern DF. If we account for the difference in the data points and look at the X & Y scales, the outliers in the Southern DF dont look so extreme. In the Northern DF for example, there at 40 lat there are points ranging from -10 to 20 temp, a 30 Delta. They look close to the line of regression while in the southern, the same lat has an extreme of 10 to 35, a 25 Delta. I personally think that that Southern DF plots would be more visually useful inverted with a different color on the same plot as the Northern DF.`
+See [WeatherPy.ipynb ](./WeatherPy.ipynb) for complete analysis. 
 
 ![N](Code_Snips/Weather_N.png)
 ![S](Code_Snips/Weather_S.png)
